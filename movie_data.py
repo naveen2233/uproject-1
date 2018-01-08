@@ -45,5 +45,3 @@ def create_movie_list():
 # creating movie list
 movies = create_movie_list()
 fresh_tomatoes.open_movies_page(movies)
-
-#Test
